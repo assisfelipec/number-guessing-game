@@ -66,6 +66,7 @@ body::before {
     font-weight: 700;
     border: none;
     margin-top: 2rem;
+    cursor: pointer;
 }
 
 .container__texto {
@@ -124,6 +125,7 @@ body::before {
     font-weight: 700;
     border: none;
     margin-top: 25px;
+    cursor: pointer;
 }
 
 .botao-facil {
@@ -164,6 +166,7 @@ button {
 
 button:disabled {
     background-color: gray;
+    cursor: auto;
 }
 
 @media screen and (max-width: 1250px) {
