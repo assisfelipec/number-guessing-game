@@ -1,0 +1,30 @@
+[33mcommit 469962edde9699cba3aada20fb65a0b8c6e68437[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Felipe Coldebella de Assis <assis.felipec@gmail.com>
+Date:   Wed Apr 15 14:27:16 2026 -0300
+
+    Adjust button sizes and spacing
+
+[33mcommit 72b28ac4ff8c96616c4402d3e4af571b4111c1a0[m
+Author: Felipe Coldebella de Assis <assis.felipec@gmail.com>
+Date:   Wed Apr 15 14:16:17 2026 -0300
+
+    Create README.md
+
+[33mcommit 825763518bf916c7665c7009722c4c5fc8742d1b[m
+Merge: 592ebf6 3733e60
+Author: Felipe Coldebella de Assis <assis.felipec@gmail.com>
+Date:   Wed Apr 15 14:11:57 2026 -0300
+
+    Initial commit - number guessing game
+
+[33mcommit 592ebf64cd481eabe7285efac655e6246998844c[m
+Author: Felipe Coldebella de Assis <assis.felipec@gmail.com>
+Date:   Wed Apr 15 14:05:36 2026 -0300
+
+    Initial commit - number guessing game
+
+[33mcommit 3733e601cafaa4dc293bd67e9a21d46de133e3e6[m
+Author: Felipe Coldebella de Assis <assis.felipec@gmail.com>
+Date:   Wed Apr 15 14:02:38 2026 -0300
+
+    Initial commit

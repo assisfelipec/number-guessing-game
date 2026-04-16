@@ -116,7 +116,7 @@ function definirDificuldade(dificuldade,numeroMaximo){
 
 function definirTentativas() {
     if(dificuldadeEscolhida == 1) limiteTentativas = 5;
-    else if(dificuldadeEscolhida == 2) limiteTentativas = 7;
+    else if(dificuldadeEscolhida == 2) limiteTentativas = 8;
     else limiteTentativas = 10;
 }
 
